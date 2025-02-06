@@ -7,7 +7,7 @@ Dieses Projekt wurde im Rahmen eines Hackathons der Vorlesung "Machine Learning"
 Vor dem Modelltraining wurde eine umfassende Datenvorbereitung durchgeführt:
 - **Datenbereinigung**: Fehlende Werte wurden je nach Attribut sinnvoll ersetzt oder entfernt.
 - **Feature Engineering**: Kategorische Variablen wurden encodiert.
-- **Datenaufteilung**: Die Daten wurden in **Trainings- (80%)** und **Testdaten (20%)** gesplittet.
+- **Datenaufteilung**: Die Daten wurden in **Trainings- ** und **Testdaten ** gesplittet.
 
 ## 🤖 Modelltraining
 Das Modell wurde mit folgenden Schritten trainiert:
