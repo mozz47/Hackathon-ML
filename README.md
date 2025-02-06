@@ -1,7 +1,7 @@
 # Hackathon: Immobilienpreisanalyse mit Machine Learning
 
 ## 📌 Projektbeschreibung
-Dieses Projekt wurde im Rahmen Hackathons der Vorlesung "Machine Learning" durchgeführt und befasst sich mit der Vorhersage von Immobilienpreisen anhand verschiedener Merkmale. Dabei wurde ein **RandomForestRegressor** verwendet, um basierend auf strukturierten Daten ein Vorhersagemodell zu trainieren.
+Dieses Projekt wurde im Rahmen eines Hackathons der Vorlesung "Machine Learning" durchgeführt und befasst sich mit der Vorhersage von Immobilienpreisen anhand verschiedener Merkmale. Dabei wurde ein **RandomForestRegressor** verwendet, um basierend auf strukturierten Daten ein Vorhersagemodell zu trainieren.
 
 ## 📂 Datenverarbeitung
 Vor dem Modelltraining wurde eine umfassende Datenvorbereitung durchgeführt:
