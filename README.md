@@ -6,7 +6,7 @@ Dieses Projekt wurde im Rahmen eines Hackathons der Vorlesung "Machine Learning"
 ## 📂 Datenverarbeitung
 Vor dem Modelltraining wurde eine umfassende Datenvorbereitung durchgeführt:
 - **Datenbereinigung**: Fehlende Werte wurden je nach Attribut sinnvoll ersetzt oder entfernt.
-- **Feature Engineering**: Kategorische Variablen wurden mit `pd.get_dummies()` encodiert.
+- **Feature Engineering**: Kategorische Variablen wurden encodiert.
 - **Datenaufteilung**: Die Daten wurden in **Trainings- (80%)** und **Testdaten (20%)** gesplittet.
 
 ## 🤖 Modelltraining
